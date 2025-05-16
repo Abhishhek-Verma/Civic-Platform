@@ -74,27 +74,41 @@ The **Civic Platform** is a full-stack web application that empowers individuals
 ### 🛠️ Installation
 
 git clone    https://github.com/Abhishhek-Verma/Civic-Platform.git
+
 cd civic-platform
 
 Frontend :-
+
 cd frontend
+
 npm install
+
 npm run dev
+
 
 Backend :-
 
 cd backend
+
 npm install
+
 npm run dev
+
 ---
 🔐 Environment Variables
 You’ll need the following .env variables:
 MONGO_URI=your-mongodb-uri
+
 JWT_SECRET=your-secret-key
+
 CLOUDINARY_API_KEY=xxx
+
 CLOUDINARY_API_SECRET=xxx
+
 CLOUDINARY_CLOUD_NAME=your-cloud
+
 GOOGLE_GENAI_KEY=your-api-key
+
 REDIS_URL=redis://localhost:6379
 
 ---
