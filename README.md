@@ -73,7 +73,7 @@ The **Civic Platform** is a full-stack web application that empowers individuals
 
 ### 🛠️ Installation
 
-git clone https://github.com/your-repo/civic-platform.git
+git clone    https://github.com/Abhishhek-Verma/Civic-Platform.git
 cd civic-platform
 
 Frontend :-
