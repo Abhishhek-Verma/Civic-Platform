@@ -77,7 +77,7 @@ git clone    https://github.com/Abhishhek-Verma/Civic-Platform.git
 
 cd civic-platform
 
-Frontend :-
+Frontend :--
 
 cd frontend
 
