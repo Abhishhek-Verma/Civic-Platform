@@ -16,7 +16,7 @@ The **Civic Platform** is a full-stack web application that empowers individuals
 
 ---
 
-## ✨ Features
+## ✨ Features...
 
 ### 🌍 Frontend
 
